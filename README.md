@@ -90,6 +90,6 @@ File name
 
 ![test_1024](screenshot/test_1024.png)
 
-<video src="screenshot/dop/final.mp4"></video>
+![final](screenshot/dop/final.gif)
 
 ![make](screenshot/make.png)
