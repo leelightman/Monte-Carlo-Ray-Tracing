@@ -2,6 +2,16 @@
 
 Lynn Li (`ml6589`)
 
+Overview of deliverables 
+
+1. Monte Carlo Ray Tracing Spheres - Support the rendering of multiple spheres and 3d triangle meshes in general position with Monte Carlo ray tracing techniques.
+2. Shading - Support ambient and specular lighting from an area light source. Render the scene with multiple objects with different colors and different material properties including purely diffuse, glass and mirror surface.
+3. Shadow - Add soft shadows casted on the object as well as surrounding environment (wall/ floor). 
+4. Depth of Field effect 
+5. Refraction - Since I plan to use rough floor to present best effect of Monte Carlo integration, I will add refraction on the floor, wall and 3d object with rough surfaces. 
+6. Simple parallelization for faster rendering with OpenMP 
+7. Animation - Create a simple animation by rendering multiple frames while moving the position of the camera and of the object. 
+
 **<u>Compilation Instruction</u>**
 
 ```
