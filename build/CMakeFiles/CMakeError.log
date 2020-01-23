@@ -1,0 +1,60 @@
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e1aad/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_e1aad.dir/build.make CMakeFiles/cmTC_e1aad.dir/build
+Building C object CMakeFiles/cmTC_e1aad.dir/OpenMPCheckVersion.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -openmp=libomp -Wno-unused-command-line-argument -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_e1aad.dir/OpenMPCheckVersion.c.o   -c /Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+/Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c:3:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_e1aad.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_e1aad/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_034b4/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_034b4.dir/build.make CMakeFiles/cmTC_034b4.dir/build
+Building CXX object CMakeFiles/cmTC_034b4.dir/OpenMPCheckVersion.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -openmp=libomp -Wno-unused-command-line-argument -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_034b4.dir/OpenMPCheckVersion.cpp.o -c /Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+/Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp:3:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_034b4.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_034b4/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ab66f/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_ab66f.dir/build.make CMakeFiles/cmTC_ab66f.dir/build
+Building C object CMakeFiles/cmTC_ab66f.dir/OpenMPCheckVersion.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -openmp=libomp -Wno-unused-command-line-argument -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_ab66f.dir/OpenMPCheckVersion.c.o   -c /Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+/Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c:3:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_ab66f.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_ab66f/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3b223/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_3b223.dir/build.make CMakeFiles/cmTC_3b223.dir/build
+Building CXX object CMakeFiles/cmTC_3b223.dir/OpenMPCheckVersion.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -openmp=libomp -Wno-unused-command-line-argument -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_3b223.dir/OpenMPCheckVersion.cpp.o -c /Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+/Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp:3:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_3b223.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_3b223/fast] Error 2
+
+
+
