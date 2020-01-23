@@ -88,8 +88,8 @@ File name
    - Cast shadows rays to different location of the light, see if it is intersecting with the emitter plane
    - radiosity = flux/area
 
-![test_1024](/Users/lynnli/CS-GY-6533/Final/build/test_1024.png)
+![test_1024](screenshot/test_1024.png)
 
-<video src="/Users/lynnli/CS-GY-6533/Final/build/dop/2019-12-16 18_21_33.mp4"></video>
+<video src="screenshot/dop/final.mp4"></video>
 
-![make](/Users/lynnli/CS-GY-6533/Final/build/make.png)
+![make](screenshot/make.png)

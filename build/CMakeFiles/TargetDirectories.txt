@@ -1,3 +1,0 @@
-/Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/rebuild_cache.dir
-/Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/edit_cache.dir
-/Users/lynnli/CS-GY-6533/Final/build/CMakeFiles/final.dir
