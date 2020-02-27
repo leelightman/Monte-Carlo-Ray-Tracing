@@ -1,4 +1,4 @@
-## CS-GY 6533  Monte Carlo Ray Tracing
+## CS-GY 6533  Monte Carlo Ray Tracing with OpenGL
 
 Lynn Li (`ml6589`)
 
